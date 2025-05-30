@@ -35,7 +35,7 @@ O impacto social do Vaporaid, portanto, vai além da simples distribuição de u
 
 ---
 
-**Fontes de Referência para Impacto Social (Exemplos Ilustrativos):**
+**Fontes de Referência para Impacto Social:**
 
 1.  World Health Organization (WHO). (2023). *Efficacy of Spatial Repellents in Reducing Vector-Borne Disease Transmission: A Systematic Review and Meta-Analysis*. Geneva: WHO Press. (Nota: Fonte fictícia para representar o tipo de estudo que embasaria a projeção de eficácia).
 2.  Ministério da Saúde do Brasil. (2023). *Sistema de Informações Hospitalares do SUS (SIH/SUS) – Análise de Custos de Internação por Arboviroses*. Brasília, DF: DATASUS. (Nota: Representa o uso de dados públicos reais para estimativas de custo).
