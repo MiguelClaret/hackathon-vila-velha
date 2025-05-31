@@ -3,9 +3,9 @@ title: Impacto Social
 sidebar_position: 3
 ---
 
-O projeto Vaporaid, ao democratizar o acesso a uma ferramenta eficaz de prevenção contra o *Aedes aegypti* e ao promover a economia circular, possui um potencial de impacto social multifacetado e profundamente positivo, especialmente direcionado às comunidades mais vulneráveis, que historicamente arcam com o maior peso das arboviroses.
+&emsp;O projeto Vaporaid, ao democratizar o acesso a uma ferramenta eficaz de prevenção contra o *Aedes aegypti* e ao promover a economia circular, possui um potencial de impacto social multifacetado e profundamente positivo, especialmente direcionado às comunidades mais vulneráveis, que historicamente arcam com o maior peso das arboviroses.
 
-### Redução da Incidência de Arboviroses e Melhoria da Saúde Comunitária:
+## Redução da Incidência de Arboviroses e Melhoria da Saúde Comunitária:
 
 * **Diminuição Direta de Casos de Dengue, Zika e Chikungunya:** Ao fornecer uma barreira de proteção individual e domiciliar contínua, especialmente durante os períodos de maior transmissão, projeta-se uma redução significativa no número de infecções. Modelos epidemiológicos baseados na eficácia de repelentes ambientais de liberação contínua em espaços fechados sugerem um potencial de redução da taxa de ataque domiciliar do *Aedes aegypti* em até **60-75%** em áreas com alta adesão ao uso do Vaporaid ¹.
 * **Alívio na Sobrecarga dos Serviços Locais de Saúde:** Com menos pessoas adoecendo, espera-se uma diminuição na procura por atendimento em postos de saúde e hospitais, liberando recursos e profissionais para outras demandas. Considerando que cada caso de dengue evitado representa uma economia média de R$ 1.400 para o SUS (custo de internação, conforme dados do Ministério da Saúde de 2023), a prevenção de milhares de casos pode gerar uma economia substancial para o sistema público ².
@@ -33,7 +33,7 @@ O impacto social do Vaporaid, portanto, vai além da simples distribuição de u
 
 ---
 
-**Fontes:**
+**Referências:**
 
 1. World Health Organization (WHO). (2023). *Efficacy of Spatial Repellents in Reducing Vector-Borne Disease Transmission: A Systematic Review and Meta-Analysis*. Geneva: WHO Press. Disponível em: https://www.who.int/publications/i/item/9789240068534  
 2. Ministério da Saúde do Brasil. (2023). *Sistema de Informações Hospitalares do SUS (SIH/SUS) – Análise de Custos de Internação por Arboviroses*. Brasília, DF: DATASUS. Disponível em: https://datasus.saude.gov.br/  
